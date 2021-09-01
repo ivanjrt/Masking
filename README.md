@@ -24,3 +24,9 @@ Real Actual Example:
   $VariableObject | Select FullName, @{N="CensuredEmail";E={($_.UserEmail) -replace '(?<=...).(?=.*@)', '*'}}, Date
 ```
 
+Some references:
+https://regex101.com/
+https://powershellexplained.com/2017-07-31-Powershell-regex-regular-expression/
+
+WIP . I'll probably have to translate this into **Python**
+
