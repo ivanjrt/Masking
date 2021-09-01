@@ -1,7 +1,7 @@
 # Masking
 Helpful Tools to Mask Confidential information
-"-replace"  = comes from the **regex** found .NET
-.replace    =  This is more powershellish
+string -replace  = comes from **Regex** found .NET
+string.replace   =  This is more powershellish
 
 Here are some examples of Masking
 ``` Javascript
