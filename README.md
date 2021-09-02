@@ -1,4 +1,4 @@
-# Masking
+# PowerShell Version
 Helpful Tools to Mask Confidential information
 string -replace  = comes from **Regex** found .NET
 string.replace   =  This is more powershellish
@@ -27,6 +27,8 @@ Real Actual Example:
 Some references:
 https://regex101.com/
 https://powershellexplained.com/2017-07-31-Powershell-regex-regular-expression/
+
+# Python Version
 
 WIP . I'll probably have to translate this into **Python**
 This is still in Development:
